@@ -12,7 +12,7 @@ export class CriarpensamentoComponent implements OnInit {
   pensamento: Pensamento = {
     conteudo: '',
     autor: '',
-    modelo: 'modelo1',
+    modelo: '',
   };
 
   constructor(private service: PensamentoService, private router: Router) {}

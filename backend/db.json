@@ -1,16 +1,10 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Funcionando",
-      "autor": "Eu",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 3,
-      "conteudo": "que o normal",
-      "autor": "Eu",
-      "modelo": "modelo3"
+      "conteudo": "Teste",
+      "autor": "sasdfasd",
+      "modelo": "modelo3",
+      "id": 1
     }
   ]
 }
