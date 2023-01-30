@@ -1,0 +1,22 @@
+{
+    "pensamentos": [
+        {
+            "id": 1,
+            "conteudo": "Funcionando",
+            "autor": "Eu",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 2,
+            "conteudo": "mais",
+            "autor": "Eu",
+            "modelo": "modelo2"
+        },
+        {
+            "id": 3,
+            "conteudo": "que o normal",
+            "autor": "Eu",
+            "modelo": "modelo3"
+        }
+    ]
+}
