@@ -7,28 +7,10 @@
       "modelo": "modelo1"
     },
     {
-      "id": 2,
-      "conteudo": "mais",
-      "autor": "Eu",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "que o normal",
       "autor": "Eu",
       "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Teste",
-      "autor": "Teste",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "teste 2",
-      "autor": "teste 2",
-      "modelo": "modelo1",
-      "id": 5
     }
   ]
 }
